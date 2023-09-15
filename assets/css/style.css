@@ -1,0 +1,14 @@
+#area{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    height: 60vh;
+}
+
+.card img{
+    width: 25%;
+}
